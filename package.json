@@ -1,0 +1,22 @@
+{
+  "name": "react-native-android-blurryoverlay",
+  "description": "A react native android package to show a blurry overlay.",
+  "version": "0.2.3",
+  "main": "index.android.js",
+  "author": {
+    "name": "Kwaak"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kwaak/react-native-android-blurryoverlay.git"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": ">= 0.16.0"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "android"
+  ]
+}
