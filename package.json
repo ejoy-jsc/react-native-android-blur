@@ -1,5 +1,5 @@
 {
-  "name": "react-native-android-blurryoverlay",
+  "name": "ejoy-react-native-android-blur",
   "description": "A react native android package to show a blurry overlay.",
   "version": "0.2.3",
   "main": "index.android.js",
