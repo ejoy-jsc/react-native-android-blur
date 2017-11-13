@@ -4,11 +4,11 @@
   "version": "0.2.3",
   "main": "index.android.js",
   "author": {
-    "name": "Kwaak"
+    "name": "Kwaak - rebase Ejoy team"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:kwaak/react-native-android-blurryoverlay.git"
+    "url": "git@github.com:ejoy-jsc/react-native-android-blur.git"
   },
   "license": "MIT",
   "peerDependencies": {
